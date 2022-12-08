@@ -1,7 +1,7 @@
 # Python-Hypothesis-Testing-UI
 A user interface, developed in python, made for hypothesis testing. By using this, you can have in one app the ability to perform Z-Tests, T-Tests and AB-Tests.
 
-# Download files and execute the program
+# How to use the program
 Download the archive 'Hypothesis Testing Program.zip', extract the folder inside the zip somewhere and execute the .exe file. You must have python installed in your computer.
 
 # Code chunks
