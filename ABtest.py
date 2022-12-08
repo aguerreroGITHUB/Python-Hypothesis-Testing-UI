@@ -57,7 +57,7 @@ def calculate():
     
     # Announce the test result
     if p < 0.05:
-        test_result = tk.Label(root, text=f"Can renect Null Hypothesis", fg='green')
+        test_result = tk.Label(root, text=f"Reject Null Hypothesis", fg='green')
     else:
         test_result = tk.Label(root, text=f"Can't reject Null Hypothesis", fg='red')
     test_result.grid(row=7, column=0, columnspan=2)
